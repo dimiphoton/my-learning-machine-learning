@@ -1,0 +1,1 @@
+Content moved to [https://github.com/DataTalksClub/machine-learning-zoomcamp](https://github.com/DataTalksClub/machine-learning-zoomcamp)
